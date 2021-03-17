@@ -1,0 +1,1 @@
+JS application for drag and drop without triggering drag and drop events explicitly.
