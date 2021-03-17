@@ -1,12 +1,18 @@
 #gate {
+  top:50px;
+  left:30px;
   cursor: pointer;
   margin-bottom: 100px;
   width: 83px;
   height: 46px;
+  position: absolute;
 }
 
 #ball {
+  top:100px;
+  left:80px;
   cursor: pointer;
   width: 40px;
   height: 40px;
+  position: absolute;
 }
